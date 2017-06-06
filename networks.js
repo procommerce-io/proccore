@@ -10,8 +10,8 @@ exports.livenet = {
   addressVersion: 55,
   privKeyVersion: 205,
   P2SHVersion: 55,
-  hkeyPublicVersion: 0x0488b21e,
-  hkeyPrivateVersion: 0x0488ade4,
+  hkeyPublicVersion: 0xEE80286A,
+  hkeyPrivateVersion: 0xEE8031E8,
   genesisBlock: {
     hash: hex('26afb505e714c666f0bfbd4884aad5eb05bbd439b51ede86df62f25401040000'),
     merkle_root: hex('2c859a6fd90361e455f327235fb106546ea6ef1f5821462be3094c94ca80b13b'),
@@ -20,7 +20,7 @@ exports.livenet = {
     version: 1,
     prev_hash: buffertools.fill(new Buffer(32), 0),
     timestamp: 1488375642,
-    bits: 520159231,
+    bits: 504365055,
   },
   dnsSeeds: [
     '194.135.80.127',
