@@ -58,7 +58,7 @@
   "main": "bitcore.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/procurrency/proccore.git"
+    "url": "git+https://github.com/procommerce-io/proccore.git"
   },
   "scripts": {
     "install": "node-gyp rebuild",
@@ -74,8 +74,8 @@
     "bindings": "=1.1.1",
     "bn.js": "=1.0.0",
     "brfs": "=1.0.0",
-    "browserify-buffertools": "git://github.com/procurrency/browserify-buffertools.git",
-    "bufferput": "git://github.com/procurrency/node-bufferput.git",
+    "browserify-buffertools": "git://github.com/procommerce-io/browserify-buffertools.git",
+    "bufferput": "git://github.com/procommerce-io/node-bufferput.git",
     "buffers": "=0.1.1",
     "buffertools": "=2.1.2",
     "elliptic": "=1.0.0",
@@ -137,8 +137,8 @@
   "readmeFilename": "README.md",
   "gypfile": true,
   "bugs": {
-    "url": "https://github.com/procurrency/proccore/issues"
+    "url": "https://github.com/procommerce-io/proccore/issues"
   },
-  "homepage": "https://github.com/procurrency/proccore",
+  "homepage": "https://github.com/procommerce-io/proccore",
   "_id": "proccore@0.1.41"
 }
